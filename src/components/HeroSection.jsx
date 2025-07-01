@@ -23,7 +23,23 @@ export const HeroSection = () => {
                 </p>
 
                 <div className="pt-4 opacity-0 animate-fade-in-delay-4">
-                    <a href="#projects" className="cosmic-button">
+                    <a href="#projects" <a
+  href="#projects"
+  style={{
+    padding: "0.5rem 1.5rem",           // px-6 py-2
+    borderRadius: "9999px",              // rounded-full
+    backgroundColor: "#7c3aed",          // replace with your primary color
+    color: "#fff",                      // replace with your text color
+    fontWeight: 500,
+    transition: "all 0.3s ease",
+    cursor: "pointer",
+    display: "inline-block",
+    textAlign: "center",
+    userSelect: "none",
+    border: "none",
+    textDecoration: "none",
+  }}
+>>
                         View My Work
                     </a>
                 </div>
