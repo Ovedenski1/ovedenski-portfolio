@@ -9,12 +9,14 @@ export const ThemeToggle = () => {
 
   useEffect(() => {
     const storedTheme = localStorage.getItem("theme");
-    if (storedTheme === "dark") {
+    if (storedTheme === "dark" || !storedTheme) {
+      // Default to dark mode
       setIsDarkMode(true);
       document.documentElement.classList.add("dark");
+      localStorage.setItem("theme", "dark");
     } else {
-      localStorage.setItem("theme", "light");
       setIsDarkMode(false);
+      document.documentElement.classList.remove("dark");
     }
 
     setTimeout(() => {
@@ -32,7 +34,7 @@ export const ThemeToggle = () => {
       localStorage.setItem("theme", "dark");
       setIsDarkMode(true);
     }
-    setShowClickText(false); // hide text after first click
+    setShowClickText(false); // Hide text after first click
   };
 
   return (
