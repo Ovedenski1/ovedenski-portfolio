@@ -15,7 +15,7 @@ const projects = [
         title: "VarnaTravel",
         descripion: "Example Travel website about Varna",
         image: "/projects/project2.png",
-        tags: ["HTML", "CSS", "Javascript"],
+        tags: ["HTML", "CSS", "Javascript", "Visual Studio Code"],
         demoUrl: "",
         githubUrl: "",
     },
