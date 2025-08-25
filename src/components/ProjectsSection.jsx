@@ -3,10 +3,10 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
     {
         id: 1,
-        title: "Project not ready",
-        descripion: "Still in development",
-        image: "/projects/project1.avif",
-        tags: ["React", "TailwindCss", "Superbase"],
+        title: "Desi`s Kitchen",
+        descripion: "Recipe app for my mom",
+        image: "/projects/project1.png",
+        tags: ["React-Native", "TailwindCss", "Neon", "Clerk", "Expo"],
         demoUrl: "",
         githubUrl: "",
     },
@@ -21,10 +21,10 @@ const projects = [
     },
     {
         id: 3,
-        title: "Pokedex",
-        descripion: "Simple pokedex with the original 151 PockedMonsters ",
+        title: "Pokemon Bulgaria Clone",
+        descripion: "Pokemon clone with a story and map inspired by my hometown",
         image: "/projects/project3.png",
-        tags: ["HTML", "CSS", "Javascript"],
+        tags: ["RPG Maker XP", "Ruby", "ChatGPT for sprites nad tilesets"],
         demoUrl: "#",
         githubUrl: "#",
     },
