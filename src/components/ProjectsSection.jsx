@@ -13,7 +13,7 @@ const projects = [
     {
         id: 2,
         title: "VarnaTravel",
-        descripion: "Travel website about Varna",
+        descripion: "Example Travel website about Varna",
         image: "/projects/project2.png",
         tags: ["HTML", "CSS", "Javascript"],
         demoUrl: "",
