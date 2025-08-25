@@ -21,10 +21,10 @@ const projects = [
     },
     {
         id: 3,
-        title: "Pokemon Bulgaria Clone",
-        descripion: "Pokemon clone with a story and map inspired by my hometown",
+        title: "Bulgaria inspired Pokemon Clone",
+        descripion: "inspired by my hometown",
         image: "/projects/project3.png",
-        tags: ["RPG Maker XP", "Ruby", "ChatGPT for sprites nad tilesets"],
+        tags: ["RPG Maker XP", "Ruby", "ChatGPT"],
         demoUrl: "#",
         githubUrl: "#",
     },
