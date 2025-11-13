@@ -25,8 +25,17 @@ const projects = [
         descripion: "inspired by my hometown",
         image: "/projects/project3.png",
         tags: ["RPG Maker XP", "Ruby", "ChatGPT"],
-        demoUrl: "#",
-        githubUrl: "#",
+        demoUrl: "",
+        githubUrl: "",
+    },
+    {
+        id: 4,
+        title: "CheckPoint",
+        descripion: "Gaming website",
+        image: "/projects/gamewebsite.png",
+        tags: ["React", "NextJS", "Supabase", "Stream"],
+        demoUrl: "",
+        githubUrl: "",
     },
 
 
