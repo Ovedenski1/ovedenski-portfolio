@@ -32,7 +32,7 @@ const projects = [
         id: 4,
         title: "CheckPoint",
         descripion: "Gaming website",
-        image: "/projects/gamewebsite.png",
+        image: "/gamewebsite.png",
         tags: ["React", "NextJS", "Supabase", "Stream"],
         demoUrl: "",
         githubUrl: "",
