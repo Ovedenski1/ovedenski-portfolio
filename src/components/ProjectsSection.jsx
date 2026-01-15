@@ -30,12 +30,28 @@ const projects = [
     },
     {
         id: 4,
-        title: "CheckPoint",
+        title: "Pokko",
         descripion: "Gaming website",
         image: "/gamewebsite.png",
-        tags: ["React", "NextJS", "Supabase", "Stream"],
-        demoUrl: "",
-        githubUrl: "",
+        tags: ["Vercel", "NextJS", "Supabase", "Stream", "TailwindCss"],
+        demoUrl: "https://game-swap-6wgn.vercel.app/",
+        githubUrl: "https://github.com/Ovedenski1/game-swap",
+    },
+    {
+        id: 5,
+        title: "Kizuna",
+        descripion: "Japanese courses",
+        image: "/kizuna.png",
+        tags: ["NextJS", "Supabase", "TailwindCss"],
+        githubUrl: "https://github.com/Ovedenski1/nihongo-site",
+    },
+    {
+        id: 6,
+        title: "TMS",
+        descripion: "Translation pm tracker",
+        image: "/tms.png",
+        tags: ["NextJS", "Supabase", "TailwindCss"],
+        githubUrl: "https://github.com/Ovedenski1/tms",
     },
 
 
