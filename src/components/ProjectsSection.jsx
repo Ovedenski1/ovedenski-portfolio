@@ -44,6 +44,15 @@ const projects = [
         tags: ["NextJS", "Supabase", "TailwindCss"],
         githubUrl: "https://github.com/Ovedenski1/tms",
     },
+      {
+        id: 6,
+        title: "Rithy",
+        descripion: "Book writing helper",
+        image: "/bookapp.png",
+        tags: ["Expo", "Android Studio"],
+        demoUrl: "https://drive.google.com/file/d/19ZzDwq_8sxpxezDSIWjmm4TXy7sMSQU0/view?usp=sharing",
+        githubUrl: "https://github.com/Ovedenski1/book-bible",
+    },
 
 
 ]
