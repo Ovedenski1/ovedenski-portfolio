@@ -34,6 +34,7 @@ const projects = [
         descripion: "Japanese courses(waiting for hosting)",
         image: "/kizuna.png",
         tags: ["NextJS", "Supabase", "TailwindCss"],
+        demoUrl: "https://nihongo-site-2qay.vercel.app/",
         githubUrl: "https://github.com/Ovedenski1/nihongo-site",
     },
     {
