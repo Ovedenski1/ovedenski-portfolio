@@ -54,7 +54,15 @@ const projects = [
         demoUrl: "https://drive.google.com/file/d/19ZzDwq_8sxpxezDSIWjmm4TXy7sMSQU0/view?usp=sharing",
         githubUrl: "https://github.com/Ovedenski1/book-bible",
     },
-
+{
+        id: 7,
+        title: "Translation PO Generator",
+        descripion: "Generates the PO for tre linguists",
+        image: "/pogenerator.png",
+        tags: ["HTML", "CSS", "Javascript"],
+        demoUrl: "https://github.com/Ovedenski1/purchase-order-pdf-generator-v2",
+        githubUrl: "https://github.com/Ovedenski1/purchase-order-pdf-generator-v2",
+    },
 
 ]
 
