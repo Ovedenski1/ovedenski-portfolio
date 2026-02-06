@@ -6,8 +6,8 @@ const projects = [
         title: "Desi`s Kitchen",
         descripion: "Recipe app for my mom(waiting for hosting)",
         image: "/projects/project1.png",
-        tags: ["React-Native", "TailwindCss", "Neon", "Clerk", "Expo"],
-        demoUrl: "",
+        tags: ["React-Native", "TailwindCss", "Next"],
+        demoUrl: "https://cookpad-desi.vercel.app/",
         githubUrl: "",
     },
     {
