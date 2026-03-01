@@ -63,6 +63,15 @@ const projects = [
         demoUrl: "https://github.com/Ovedenski1/purchase-order-pdf-generator-v2",
         githubUrl: "https://github.com/Ovedenski1/purchase-order-pdf-generator-v2",
     },
+    {
+        id: 8,
+        title: "Pro Fils alternative Website",
+        descripion: "wanted to try and make an alternative for pro films. Still needs work",
+        image: "/pro.png",
+        tags: ["TailwindCss", "Next"],
+        demoUrl: "https://exitfilm-clone.vercel.app/",
+        githubUrl: "https://github.com/Ovedenski1/exitfilm-clone",
+    },
 
 ]
 
