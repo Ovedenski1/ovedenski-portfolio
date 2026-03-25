@@ -72,6 +72,15 @@ const projects = [
         demoUrl: "https://exitfilm-clone.vercel.app/",
         githubUrl: "https://github.com/Ovedenski1/exitfilm-clone",
     },
+     {
+        id: 9,
+        title: "Sheep Game",
+        descripion: "Game about catching sheep",
+        image: "/sheep.png",
+        tags: ["C#", "Unity"],
+        demoUrl: "https://poko97.itch.io/sheep-frenzy",
+        githubUrl: "https://github.com/Ovedenski1/Sheep-Frenzy",
+    },
 
 ]
 
