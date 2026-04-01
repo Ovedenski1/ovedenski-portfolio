@@ -57,7 +57,7 @@ const projects = [
 {
         id: 7,
         title: "Translation PO Generator",
-        descripion: "Generates the PO for tre linguists",
+        descripion: "Generates the PO for linguists",
         image: "/pogenerator.png",
         tags: ["HTML", "CSS", "Javascript"],
         demoUrl: "https://github.com/Ovedenski1/purchase-order-pdf-generator-v2",
@@ -93,7 +93,7 @@ export const ProjectsSection = () => {
             </h2>
 
             <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-                Here are some of my recent proejcts. Eacg oriehct was 
+                Here are some of my recent proejcts. Each project was 
                 carefully crafted with attention to detail,performance, 
                 and user experience.
             </p>
