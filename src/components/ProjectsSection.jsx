@@ -82,7 +82,7 @@ const projects = [
         githubUrl: "https://github.com/Ovedenski1/Sheep-Frenzy",
     },
     {
-        id: 9,
+        id: 10,
         title: "Dice Game (Demo)",
         descripion: "One piece inspired Dice game with powers",
         image: "/dicedice.png",
