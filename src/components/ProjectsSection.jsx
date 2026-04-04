@@ -81,6 +81,16 @@ const projects = [
         demoUrl: "https://poko97.itch.io/sheep-frenzy",
         githubUrl: "https://github.com/Ovedenski1/Sheep-Frenzy",
     },
+    {
+        id: 9,
+        title: "Dice Game (Demo)",
+        descripion: "One piece inspired Dice game with powers",
+        image: "/dicedice.png",
+        tags: ["Next", "Vercel", "Supabase"],
+        demoUrl: "https://tavern-dice.vercel.app/",
+        githubUrl: "https://github.com/Ovedenski1/tavern-dice",
+    },
+
 
 ]
 
